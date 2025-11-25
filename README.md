@@ -1,4 +1,5 @@
 You can check the website preview in link below:
+
 https://erp-nextjs-ui-i979.vercel.app/
 
 🚀 ERP UI – Next.js Frontend
@@ -28,6 +29,7 @@ Make sure you have Node.js v18+ installed.
 1️⃣ Clone the repository
 
 git clone https://github.com/USERNAME/erp-nextjs-ui.git
+
 cd erp-nextjs-ui
 
 2️⃣ Install dependencies
