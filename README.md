@@ -26,11 +26,14 @@ React Icons	Simple icon integration
 Make sure you have Node.js v18+ installed.
 
 1️⃣ Clone the repository
+
 git clone https://github.com/USERNAME/erp-nextjs-ui.git
 cd erp-nextjs-ui
 
 2️⃣ Install dependencies
+
 npm install
 
 3️⃣ Start the development server
+
 npm run dev
